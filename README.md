@@ -35,35 +35,4 @@ python chatbot.py
 💬 Example Chat
 🤖 Hello! I’m your Python Chatbot. Type 'exit' to quit.
 
-You: What's the capital of France?
-Bot: The capital of France is Paris.
 
-You: Who is the president?
-Bot: As of 2025, the President of France is Emmanuel Macron.
-🔁 Expand This Project
-Add a GUI with Tkinter, PyQt, or Streamlit
-
-Turn it into a voice assistant
-
-Connect it to Telegram/Discord
-
-Save conversation logs to a file
-
-Add personalities with system prompts
-
-🎁 Bonus: Personality Example
-To make the bot more friendly, add this at the start of chat_history:
-
-chat_history = [
-    {"role": "system", "content": "You are a friendly Python chatbot that explains things clearly."}
-]
-📌 Final Thoughts
-In less than 30 minutes, you’ve built:
-
-A working chatbot in Python
-
-Your first AI-powered app with OpenAI
-
-A strong base to expand into bigger projects
-
-⭐ Don’t forget to star this repo if you find it useful!
