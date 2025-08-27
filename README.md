@@ -26,7 +26,7 @@ pip install openai python-dotenv
 🛠️ Setup & Run
 Clone this repo:
 
-git clone https://github.com/kamaljeeth21/python-ai-chatbot.git
+git clone https://github.com/Kamaljeeth21/chatbot
 cd python-ai-chatbot
 Create a .env file and add your OpenAI API key:
 OPENAI_API_KEY=your-api-key-here
