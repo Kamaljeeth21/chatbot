@@ -21,28 +21,18 @@ Perfect for beginners who want to build a real AI tool with just a few lines of 
 - Code editor (VS Code, PyCharm, or Notepad)
 
 Install dependencies:
-```bash
+
 pip install openai python-dotenv
 🛠️ Setup & Run
 Clone this repo:
 
-bash
-Copy code
-git clone https://github.com/your-username/python-ai-chatbot.git
+git clone https://github.com/kamaljeeth21/python-ai-chatbot.git
 cd python-ai-chatbot
 Create a .env file and add your OpenAI API key:
-
-ini
-Copy code
 OPENAI_API_KEY=your-api-key-here
 Run the chatbot:
-
-bash
-Copy code
 python chatbot.py
 💬 Example Chat
-vbnet
-Copy code
 🤖 Hello! I’m your Python Chatbot. Type 'exit' to quit.
 
 You: What's the capital of France?
@@ -64,8 +54,6 @@ Add personalities with system prompts
 🎁 Bonus: Personality Example
 To make the bot more friendly, add this at the start of chat_history:
 
-python
-Copy code
 chat_history = [
     {"role": "system", "content": "You are a friendly Python chatbot that explains things clearly."}
 ]
@@ -79,6 +67,3 @@ Your first AI-powered app with OpenAI
 A strong base to expand into bigger projects
 
 ⭐ Don’t forget to star this repo if you find it useful!
-
-yaml
-Copy code
